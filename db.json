@@ -1,0 +1,94 @@
+{
+  "coches": [
+    {
+      "id": 1,
+      "model": "Ford Mustang",
+      "authorisedDealer": "Ford Dealership",
+      "numberDoor": 2,
+      "price": 50000,
+      "fuelType": "Gasoline",
+      "img": "https://www.gpas-cache.ford.com/guid/35b0f34d-0ff8-3e75-b278-3a38cb39a63d.png"
+    },
+    {
+      "id": 2,
+      "model": "Toyota Camry",
+      "authorisedDealer": "Toyota Dealership",
+      "numberDoor": 4,
+      "price": 35000,
+      "fuelType": "Hybrid",
+      "img": "https://img.remediosdigitales.com/a0df55/toyota-camry-electric-hybrid-2021-precios-05/840_560.jpeg"
+    },
+    {
+      "id": 3,
+      "model": "Chevrolet Corvette",
+      "authorisedDealer": "Chevrolet Dealership",
+      "numberDoor": 2,
+      "price": 80000,
+      "fuelType": "Gasoline",
+      "img": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/vdc-collections/2023/perfomance/corvette/01-images/2023-corvette-3lt-gkz-driver-front-3quarter-nav.jpg"
+    },
+    {
+      "id": 4,
+      "model": "Honda Civic",
+      "authorisedDealer": "Honda Dealership",
+      "numberDoor": 4,
+      "price": 25000,
+      "fuelType": "Gasoline",
+      "img": "https://www.honda.es/content/dam/central/cars/civic-hybrid/overview-v3/Honda-civic-hybrid-01-1x1-mobile.jpg/_jcr_content/renditions/c2.jpg"
+    },
+    {
+      "id": 5,
+      "model": "BMW 3 Series",
+      "authorisedDealer": "BMW Dealership",
+      "numberDoor": 2,
+      "price": 45000,
+      "fuelType": "Electric",
+      "img": "https://www.bmw.es/content/dam/bmw/common/all-models/3-series/sedan/2022/highlights/bmw-3-series-sedan-sp-desktop.jpg"
+    },
+    {
+      "id": 6,
+      "model": "Mercedes-Benz C-Class",
+      "authorisedDealer": "Mercedes-Benz Dealership",
+      "numberDoor": 4,
+      "price": 50000,
+      "fuelType": "Gasoline",
+      "img": "https://www.topgear.com/sites/default/files/2021/11/Mercedes_C300D_0000.jpg"
+    },
+    {
+      "id": 7,
+      "model": "Audi A4",
+      "authorisedDealer": "Audi Dealership",
+      "numberDoor": 4,
+      "price": 40000,
+      "fuelType": "Diesel",
+      "img": "https://www.centrowagen.audi.es/content/dam/iph/international/es/general_assets/blueprint/master/models/a4/a4/my-2022/stage/header-dealers-audi-a4-1400x438.jpg/_jcr_content/renditions/cq5dam.thumbnail.720.406.iph.png?imwidth=720&imdensity=1"
+    },
+    {
+      "id": 8,
+      "model": "Volkswagen Golf",
+      "authorisedDealer": "Volkswagen Dealership",
+      "numberDoor": 2,
+      "price": 30000,
+      "fuelType": "Gasoline",
+      "img": "https://soymotor.com/sites/default/files/imagenes/noticia/volkswagen-golf-gti-clubsport-45-principal-soymotor.jpg"
+    },
+    {
+      "id": 9,
+      "model": "Seat Ibiza",
+      "authorisedDealer": "Seat Dealership",
+      "numberDoor": 4,
+      "price": 23000,
+      "fuelType": "Gasoline",
+      "img": "https://cdn.drivek.com/configurator-imgs/cars/es/original/SEAT/IBIZA/40443_HATCHBACK-5-DOORS/seat-ibiza-2021.jpg"
+    },
+    {
+      "id": 10,
+      "model": "Hyundai Sonata",
+      "authorisedDealer": "Hyundai Dealership",
+      "numberDoor": 4,
+      "price": 26000,
+      "fuelType": "Gasoline",
+      "img": "https://static.motor.es/fotos-noticias/2021/10/hyundai-sonata-n-line-night-edition-202181943-1634372584_1.jpg"
+    }
+  ]
+}
